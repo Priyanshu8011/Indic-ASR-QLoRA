@@ -1,0 +1,11 @@
+transformers
+peft
+bitsandbytes
+accelerate
+datasets
+jiwer
+torchcodec
+soundfile
+librosa
+pandas
+matplotlib
